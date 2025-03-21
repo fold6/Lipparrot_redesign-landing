@@ -603,9 +603,9 @@ header nav li.categroup ul.sub li{
      
 }
 .cont02 .newpd_wrap img{
-     width: 345px;
      height: 245px;
      display: block;
+    width: 335px;
 }
 
 .cont02_in div {
@@ -1134,8 +1134,11 @@ header nav li.categroup ul.sub li{
 
 /* cont07(CS~Review) */
 .cont07{
-     max-width: 1432px;
      margin: 0 auto;
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .cont07 ul li a:hover{
      text-decoration: underline;
